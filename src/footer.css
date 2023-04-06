@@ -1,0 +1,13 @@
+.footer {
+    margin-top: 5px;
+    background-color: #151f5a;
+    display: flex ;
+    font-size: 25px;
+    justify-content: start;
+    padding: 10px;
+    align-items: center;
+    position:sticky;
+    color: aliceblue;
+    border: 1px solid #13193a;
+    border-radius: 15px;
+  }
